@@ -76,4 +76,4 @@ There will be large number of datasets, so aggregation should be as fast as poss
 ### Be careful about null or empty values
 Some column values might be null or empty. So please keep in mind while casting them or when using in aggregations.
 
-### 10. Good luck! :)
+### Good luck! :)
